@@ -4,8 +4,14 @@
 - Provide multi-version of a board game including: P1 vs P2, Computer vs Player and Computer vs Computer.
 - Sample Run: Step by step capture when run the code on QtSpim
 
-### ![COMPUTER VS COMPUTER] (https://github.com/haolam98/DraughtGame-AssemblyLang-MIPS/blob/master/Sample%20Run/mode1_intro.png)
+### COMPUTER VS COMPUTER MODE:
+<img src='https://github.com/haolam98/DraughtGame-AssemblyLang-MIPS/blob/master/Sample%20Run/mode1_intro.png'/>
+<img src='https://github.com/haolam98/DraughtGame-AssemblyLang-MIPS/blob/master/Sample%20Run/mode1_play.png'/>
 
-### ![COMPUTER VS PLAYER MODE]()
+### COMPUTER VS PLAYER MODE:
+<img src='https://github.com/haolam98/DraughtGame-AssemblyLang-MIPS/blob/master/Sample%20Run/mode3_intro1.png'/>
+<img src='https://github.com/haolam98/DraughtGame-AssemblyLang-MIPS/blob/master/Sample%20Run/mode3_play1.png'/>
 
-### ![PLAYER 1 VS PLAYER 2 MODE]()
+### PLAYER 1 VS PLAYER 2 MODE:
+<img src='https://github.com/haolam98/DraughtGame-AssemblyLang-MIPS/blob/master/Sample%20Run/mode3_intro2.png'/>
+<img src='https://github.com/haolam98/DraughtGame-AssemblyLang-MIPS/blob/master/Sample%20Run/mode3_play2.png'/>
